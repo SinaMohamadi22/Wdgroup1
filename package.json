@@ -1,0 +1,29 @@
+{
+  "name": "wdgroup1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinaMohamadi22/Wdgroup1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinaMohamadi22/Wdgroup1/issues"
+  },
+  "homepage": "https://github.com/SinaMohamadi22/Wdgroup1#readme",
+  "dependencies": {
+    "chart.js": "^4.6.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}
